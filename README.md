@@ -26,13 +26,13 @@ sudo pacman -S base-devel gcc nasm grub xorriso mtools dosfstools qemu-desktop
 
 
 
-Compilazione e Avvio
-Bash
+## ⚙️ Compilazione e Avvio
 
+```bash
 chmod +x build.sh
 ./build.sh
 
-Autore & Social
+👤 Autore & Social
 
     Developer: onlymexo (Madyan)
 
