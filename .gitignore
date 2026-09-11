@@ -1,0 +1,5 @@
+*.o
+*.bin
+*.iso
+iso/boot/ma13_kernel.bin
+iso/boot/*.o
