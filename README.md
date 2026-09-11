@@ -21,7 +21,7 @@
 
 Per compilare il sorgente e testarlo nella macchina virtuale QEMU su Arch Linux, installa la toolchain con:
 
-
+```bash
 sudo pacman -S base-devel gcc nasm grub xorriso mtools dosfstools qemu-desktop
 
 
